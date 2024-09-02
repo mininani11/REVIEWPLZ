@@ -42,7 +42,7 @@ function generateTonkeeperLink(recipientAddress, amountTON) {
 
 // Placeholder function to simulate backend payment confirmation
 function checkPaymentStatus(userTonAddress, recipientAddress, amount, service, quantity, videoUrl) {
-    fetch('https://1ftilrs-mininani11s-projects.vercel.app/', {
+    fetch('https://reviewplz.vercel.app/', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
